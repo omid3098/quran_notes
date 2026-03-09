@@ -1,0 +1,25 @@
+{
+  "v": 1,
+  "notes": [],
+  "surahNotes": [],
+  "knowledgeBase": {
+    "roots": {
+      "طيب": {
+        "note": "Pleasantness, purity, being healthy, and being useful",
+        "translatedAt": "2026-03-09T23:10:09Z",
+        "sourceHash": "af5afe1186f60cccafbe9437f80d7649"
+      },
+      "رزق": {
+        "note": "Typically, it carries the connotation that *rizq* is something that comes from God. It includes food but is not limited to food. Knowledge, children, power, and various types of provisions all fall under the umbrella of *rizq*.",
+        "translatedAt": "2026-03-09T23:25:32Z",
+        "sourceHash": "91faa2f756ab5d68c8e3b7757d57b770"
+      },
+      "شكر": {
+        "note": "In pre-Islamic Arabic, it was used for a camel that produced abundant milk with little grazing.\nIts imagery is a kind of active, fruitful response to what has been received. Like an amplifier: you take an input and multiply it several times over.",
+        "translatedAt": "2026-03-09T23:26:36Z",
+        "sourceHash": "3d293fe235c9ed3c120f78c487cac199"
+      }
+    },
+    "lemmas": {}
+  }
+}
